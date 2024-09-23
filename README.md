@@ -1,8 +1,4 @@
-# React + Vite
+# Desafio Target Sistemas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nesse repositório foram realizadas as soluções dos desafios propostos no processo seletivo. A linguagem utilizada foi Javascript.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
